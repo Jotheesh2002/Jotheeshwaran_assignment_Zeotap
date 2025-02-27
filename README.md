@@ -28,7 +28,7 @@ Deployment & DevOps: AWS (Lambda, S3, CloudFront), Vercel, Docker, Kubernetes, C
 
 Features
 
-✅ Real-time Collaboration – Multi-user live editing using WebSockets & Firebase.
+✅ Real-time Collaboration – Multi-user live editing using WebSockets & Firebase. 
 ✅ Advanced Formula Engine – Supports complex calculations and custom functions.
 ✅ Dynamic Data Visualization – Interactive charts and graphs for data insights.
 ✅ Import & Export – Seamless CSV/Excel handling with drag-and-drop functionality.
@@ -81,6 +81,6 @@ AI & Automation First Approach – Redefining productivity through intelligent a
 📩 For collaboration, hiring discussions, or project inquiries, feel free to reach out!
 
 CONTACT INFO:
-jotheesshwaran_V
+jotheeshwaran_V
 jotheeshwaranv2002@gmail.com
 8667782566
